@@ -12,3 +12,9 @@ Chinook
 
 step 1: python -m venv chinook_venv
 step 2 activate: .\chinook_venv\bin\Activate.ps1
+step 3 create requirement.txt: 
+step 4 install packages from req.txt: pip install -r requirements.txt
+
+run the view file:
+
+step 5  python -m views.media_type_view   
